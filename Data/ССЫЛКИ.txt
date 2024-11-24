@@ -1,0 +1,10 @@
+Виды нейросетей: https://iis.guu.ru/blog/vidy-neironnih-setey/
+
+Про структуру нейросети научно: https://dzen.ru/a/YJEb_LjzSwTSt25w?ysclid=m0t78ar8ge729132517 (вставить в проект)
+
+Нейросети в математике: https://www.youtube.com/watch?v=RJCIYBAAiEI&t=687s
+
+Нейросети в обучении: https://edutoria.ru/blog/post/iskusstvennyy-intellekt-v-obrazovanii-kak-ispolzovat-varianty-primeneniya?ysclid=m16rsz7ody879116773  
+                      https://www.gazeta.ru/social/2023/02/01/16181311.shtml 
+
+Объяснение некоторых вещей в нейросетях: https://chat-gpt.org
